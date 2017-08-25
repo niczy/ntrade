@@ -1,0 +1,4 @@
+[submodule "lib/libtrading"]
+	path = lib/libtrading
+	url = git@github.com:libtrading/libtrading.git
+	branch = master
